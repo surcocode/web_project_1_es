@@ -286,3 +286,71 @@
 .table__cell_theme_dark {
   z-index: 10;
 }
+
+.footer {
+    min-height: 350px;
+    background-color: black;
+    display: flex;
+  }
+  
+  .footer__columns {
+    width: 90%;
+    background-color: black;
+    height: 250px;
+    margin: 60px auto 40px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .footer__column {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .footer__column_content_copyright {
+    flex-basis: 711px;
+    background-color: black;
+    justify-content: space-between;
+  }
+  
+  .logo_place_footer {
+    width: 185px;
+    height: 35px;
+    background-image: url("../images/logo_place_footer.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  .footer__author {
+    color: white;
+    margin-top: 18px;
+    margin-bottom: 18px;
+    line-height: 25px;
+    font-size: 18px;
+    font-weight: normal;
+  }
+  
+  .footer__column-heading {
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  
+  .footer__column-link {
+    text-decoration: none;
+    color: white;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: normal;
+  }
+  
+  .footer__list {
+    padding-left: 0;
+    margin-left: 0;
+    list-style: none;
+  }
+  
