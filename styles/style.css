@@ -255,3 +255,34 @@
   top: 50%;
   right: 48px;
 }
+.kaufman {
+  background-color: black;
+  color: white;
+  position: relative;
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+
+.kaufman-triangle {
+  position: absolute;
+  width: 660px;
+  height: 636px;
+  right: -124px;
+  top: 0;
+  overflow: hidden;
+  z-index: 5;
+}
+
+.table_heading_theme_dark {
+  position: relative;
+  z-index: 6;
+}
+
+.table__text_theme_dark {
+  position: relative;
+  z-index: 6;
+}
+
+.table__cell_theme_dark {
+  z-index: 10;
+}
