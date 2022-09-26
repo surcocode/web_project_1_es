@@ -6,8 +6,7 @@
     /* here we've set a maximum page width */
     margin: 0 auto;
     /* this ensures that all content is centered on screens wider than 1600px */
-    font-family: 'Helvetica Neue', Arial, sans-serif;    
-    background-color: aqua;
+    font-family: 'Helvetica Neue', Arial, sans-serif;        
 }
 
 .header {
@@ -23,17 +22,6 @@
     width: 568px;
 }
 
-.header__title {}
-
-.header__subtitle {}
-
-.header__link {}
-
-.header__main-illustration {}
-
-.header__square {}
-
-
 /* including elements with key-value modifiers */
 .table__cell_theme_dark {
     width: 200px;
@@ -42,6 +30,3 @@
     margin-top: 80px;
 }
 
-.logo {}
-
-.logo_place_header {}
