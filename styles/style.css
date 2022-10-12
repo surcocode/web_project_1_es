@@ -174,7 +174,7 @@
 .section-subtitle_theme_dark {
   color: white;
   position: relative;
-  padding-bottom: 0;  
+  padding-bottom: 0;
   z-index: 6;
 }
 
@@ -211,7 +211,7 @@
 .table__cell_theme_dark {
   width: 200px;
   color: white;
-  margin-right: 0;  
+  margin-right: 0;
   z-index: 10;
 }
 
@@ -251,7 +251,7 @@
   line-height: 1.15;
   font-size: 120px;
   font-weight: bold;
-  margin: 0 auto 70px;  
+  margin: 0 auto 70px;
   text-align: center;
 }
 
@@ -277,7 +277,7 @@
   color: white;
   position: relative;
   padding-top: 90px;
-  padding-bottom: 90px;  
+  padding-bottom: 90px;
   overflow: hidden;
 }
 
@@ -286,7 +286,7 @@
   width: 660px;
   height: 636px;
   right: -124px;
-  top: 0;  
+  top: 0;
   z-index: 5;
 }
 
