@@ -243,7 +243,7 @@
   background-color: #f2f2f2;
   height: 790px;
   position: relative;
-  padding-top: 100px;
+  padding-top: 100px;  
 }
 
 .feynman__title {
@@ -278,6 +278,7 @@
   position: relative;
   padding-top: 90px;
   padding-bottom: 90px;  
+  overflow: hidden;
 }
 
 .kaufman-triangle {
@@ -285,8 +286,7 @@
   width: 660px;
   height: 636px;
   right: -124px;
-  top: 0;
-  overflow: hidden;
+  top: 0;  
   z-index: 5;
 }
 
